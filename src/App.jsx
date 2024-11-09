@@ -5,8 +5,8 @@ import SingleContact from "./components/single-contact-list.jsx"
 
 const App = () => { 
 
-  const [singleList, setSingleList] = useState(``)
-  const [singleDetail, setSingleDetail] = useState({})
+  const [singleList, setSingleList] = useState({})
+  const [singleDetail, setSingleDetail] = useState(true)
 
   return (
     <>

@@ -17,6 +17,7 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
+  cursor: pointer;
 }
 
 .info{
