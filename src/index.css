@@ -1,0 +1,31 @@
+:root {
+  background-color: lightgreen;
+}
+
+h1 {
+  text-align: center;
+  font-family: cursive;
+}
+
+#header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-around;
+}
+
+#contact-info {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.info{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+h2{
+  text-align: center;
+  font-family: monospace;
+}
